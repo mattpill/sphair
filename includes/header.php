@@ -10,10 +10,14 @@
     <link rel="stylesheet" href="css/responsive-nav.css">
     <link rel="stylesheet" href="css/webicons.css" />
     <link href="css/ninja-slider.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="css/gallery.css" />
     <link rel="stylesheet" href="css/app.css" />
     <script src="js/vendor/jquery.min.js"></script>
 	<script src="js/responsive-nav.js"></script>
     <script src="js/ninja-slider.js" type="text/javascript"></script>
+    
+
+
 </head>
 <body>
 

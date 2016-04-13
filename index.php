@@ -200,10 +200,10 @@ include('includes/header.php'); ?>
 <hr>
 
 <div class="row gallery_home">
-    <div class="small-6 medium-3 large-3 columns"><img src="img/gallery_1.jpg"></div>
-    <div class="small-6 medium-3 large-3 columns"><img src="img/gallery_2.jpg"></div>
-    <div class="small-6 medium-3 large-3 columns"><img src="img/gallery_3.jpg"></div>
-    <div class="small-6 medium-3 large-3 columns"><img src="img/gallery_4.jpg"></div>
+    <div class="small-6 medium-3 large-3 columns"><a href="gallery"><img src="img/gallery_1.jpg"></a></div>
+    <div class="small-6 medium-3 large-3 columns"><a href="gallery"><img src="img/gallery_2.jpg"></a></div>
+    <div class="small-6 medium-3 large-3 columns"><a href="gallery"><img src="img/gallery_3.jpg"></a></div>
+    <div class="small-6 medium-3 large-3 columns"><a href="gallery"><img src="img/gallery_4.jpg"></a></div>
 </div>
 
   

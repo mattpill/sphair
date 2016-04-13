@@ -1,5 +1,5 @@
 <?php 
-$pageTitle = "SP Hair | Contact";
+$pageTitle = "SP Hair | Testimonials";
 include('includes/header.php'); ?>
 
 <div class="row">

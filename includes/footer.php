@@ -6,12 +6,6 @@
 			<h4>ADDRESS</h4>
 			<p>80 High St,<br>City Centre,<br>Bristol<br>BS48 1AS</p>
 		</div>
-		
-		<div class="small-4 large-4 columns footer_col"><h4>Contact</h4>
-			<p>01275 852407</p>
-			<a href="mailto:sphairco@btinternet.com?Subject=Hello">Email us here</a>
-		</div>
-		
 
 		<div class="small-2 large-4 columns footer_col">
 
@@ -80,6 +74,11 @@
 			</table> -->
 		
 		</div>
+
+		<div class="small-4 large-4 columns footer_col footer_contact"><h4>Contact</h4>
+			<a href="tel:18475555555"><p>01275 852407</p></a>
+			<a href="mailto:sphairco@btinternet.com?Subject=Hello" class="button expand">Email us here</a>
+		</div>
 	</div>
 	
 	</div>
@@ -87,6 +86,12 @@
 	<script>
 		var nav = responsiveNav(".nav-collapse");
 	</script>
+
+	<!-- for gallery -->
+	<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+	<script src='http://isotope.metafizzy.co/beta/isotope.pkgd.js'></script>
+    <script src="js/gallery.js"></script>
+    <!-- /for gallery -->
 	
     <script src="js/vendor/what-input.min.js"></script>
     <script src="js/foundation.min.js"></script>
