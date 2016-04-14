@@ -16,10 +16,17 @@
 	<script src="js/responsive-nav.js"></script>
     <script src="js/ninja-slider.js" type="text/javascript"></script>
     
-
+    <!-- LOADER -->
+	<script type="text/javascript">
+	$(window).load(function() {
+		$(".loader").fadeOut("slow");
+	})
+	</script>
+	<!-- /LOADER -->
 
 </head>
 <body>
+	<div class="loader"></div>
 
 	<div class="header">
 

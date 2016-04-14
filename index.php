@@ -7,23 +7,23 @@ include('includes/header.php'); ?>
         <ul>
             <li>
                 <a class="ns-img" href="img/1.jpg"></a>
-                <div class="caption">S.P Hair Company</div>
+                <div class="caption">S.P HAIR<br> COMPANY</div>
             </li>
             <li>
                 <a class="ns-img" href="img/2.jpg"></a>
-                <div class="caption">TOUCH·ENABLED</div>
+                <div class="caption">LOREM·IPSUM</div>
             </li>
             <li>
                 <a class="ns-img" href="img/3.jpg"></a>
-                <div class="caption">VIDEO·AUDIO</div>
+                <div class="caption">WELCOME</div>
             </li>
             <li>
                 <a class="ns-img" href="img/4.jpg"></a>
-                <div class="caption">NON·JQUERY</div>
+                <div class="caption">LOREM·IPSUM</div>
             </li>
             <li>
                 <a class="ns-img" href="img/5.jpg"></a>
-                <div class="caption">MOBILE·FRIENDLY</div>
+                <div class="caption">LOREM·IPSUM</div>
             </li>
         </ul>
         <div class="navsWrapper">

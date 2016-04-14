@@ -163,8 +163,8 @@ ol.phpfmg_form li{
 }
 
 .text_box, .text_area, .text_select {
-    min-width:160px;
-    max-width:300px;
+    min-width:100%;
+    max-width:100%;
     width: 100%;
     margin-bottom: 10px;
 }
